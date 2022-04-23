@@ -1,0 +1,8 @@
+Chapter 2
+    - write about vectors/matricies/tensors and the use of GPUs
+    - add figures from doni's medium article
+    - check plaigarism and rework
+    - lateral inhibition
+    - Ref Mass == (Cao et al., 2015, Diehl and Cook, 2015, Diehl et al., 2015, Hu et al., 2018, Hunsberger and Eliasmith, 2016, Jin et al., 2018, Lee et al., 2016, Lee et al., 2018, Mozafari et al., 2018, Rueckauer et al., 2017, Sengupta et al., 2019, Tavanaei and Maida, 2017, Wu et al., 2018).
+    - CREATE AN EXPERIMENT THAT SHOWS THAT STDP/MSTDP IS LEARNING LIKE THE ONE MADE FOR ANNS
+

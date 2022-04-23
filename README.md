@@ -10,7 +10,7 @@
 Different Approaches each in a different Folder
 
 <!--- 
-TODO: EXPLAIN THOSE 
+TODO: EXPLAIN THESE 
 
 #### Spiking Neural Networks 🧠
 
