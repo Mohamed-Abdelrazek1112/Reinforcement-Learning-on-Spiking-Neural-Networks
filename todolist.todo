@@ -1,8 +1,21 @@
 Chapter 2
-    - write about vectors/matricies/tensors and the use of GPUs
+    - THE CONVERSION OF AN ANN TO AN SNN
+    - THE PONG/BREAKOUT GAME ACTIONS AND THEIR FUNCTIONS
+    - write about vectors/matricies/tensors and the use of GPUs @done
     - add figures from doni's medium article
-    - check plaigarism and rework
-    - lateral inhibition
-    - Ref Mass == (Cao et al., 2015, Diehl and Cook, 2015, Diehl et al., 2015, Hu et al., 2018, Hunsberger and Eliasmith, 2016, Jin et al., 2018, Lee et al., 2016, Lee et al., 2018, Mozafari et al., 2018, Rueckauer et al., 2017, Sengupta et al., 2019, Tavanaei and Maida, 2017, Wu et al., 2018).
+    - check plaigarism and rework @done
+    - lateral inhibition @done
+    - Ref Mass == (Cao et al., 2015, Diehl and Cook, 2015, Diehl et al., 2015, Hu et al., 2018, Hunsberger and Eliasmith, 2016, Jin et al., 2018, Lee et al., 2016, Lee et al., 2018, Mozafari et al., 2018, Rueckauer et al., 2017, Sengupta et al., 2019, Tavanaei and Maida, 2017, Wu et al., 2018). @done
     - CREATE AN EXPERIMENT THAT SHOWS THAT STDP/MSTDP IS LEARNING LIKE THE ONE MADE FOR ANNS
+Chapter 3
+    - add a bit about prvention of playing the same game over and over again
+    - Explain how agent interacts with enviroment as in that each run is one frame
+Chapter 4
+    - pruning the network
 
+Chapter 1
+    - https://ieeexplore.ieee.org/abstract/document/9680038/ https://search.proquest.com/openview/93ee305acd9cdbc5e7dceac1a43306fa/1?pq-origsite=gscholar&cbl=18750&diss=y Resiliency of SNN's to black-box attacks
+Future Work
+    - Minibatch
+    - catterpillar sensors
+    - resistance to attacks
